@@ -1,7 +1,7 @@
 # jasmine-sample
 This is an example of using jasmine for TDD and istanbul for code coverage.
 
-To use this example:
+### To use this example
 
 Clone the repo:
 
@@ -13,7 +13,7 @@ Set up Jasmine:
 
 ```bash
 cd jasmine-sample/
-npm init
+npm install
 ```
 
 Run the tests:
