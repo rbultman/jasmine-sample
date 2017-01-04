@@ -1,5 +1,6 @@
 # jasmine-sample
-This is an example of using jasmine for TDD and istanbul for code coverage.
+This is an example of using [jasmine](https://github.com/jasmine/jasmine-npm) for TDD and 
+[istanbul](https://github.com/gotwarlost/istanbul) for code coverage.
 
 ### To use this example
 
