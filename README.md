@@ -63,3 +63,5 @@ Lines        : 100% ( 47/47 )
 ================================================================================
 ```
 
+Additionally, and HTML report showing the coverage will be in `coverage/lcov-report/index.html`.
+
