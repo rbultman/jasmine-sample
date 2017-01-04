@@ -3,24 +3,29 @@ This is an example of using jasmine for TDD and istanbul for code coverage.
 
 ### To use this example
 
+Install jasmine and istanbul:
+
+```bash
+sudo npm install -g jasmine
+sudo npm install -g istanbul
+```
+
 Clone the repo:
 
 ```bash
 git clone https://github.com/rbultman/jasmine-sample
-```
-
-Set up Jasmine:
-
-```bash
 cd jasmine-sample/
-npm install
 ```
 
 Run the tests:
 
 ```bash
-npm test
+jasmine
 ```
 
-To get code coverage:  istanbul cover jasmine
+Get code coverage:  
+
+```bash
+istanbul cover jasmine
+```
 

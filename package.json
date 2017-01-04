@@ -22,8 +22,5 @@
     "url": "https://github.com/rbultman/jasmine-sample/issues"
   },
   "homepage": "https://github.com/rbultman/jasmine-sample#readme",
-  "dependencies": {},
-  "devDependencies": {
-    "jasmine": "^2.5.2"
-  }
+  "dependencies": {}
 }
