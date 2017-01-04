@@ -1,0 +1,29 @@
+{
+  "name": "jasmine-sample",
+  "version": "1.0.0",
+  "description": "A simple example using Jasmine",
+  "main": "adder.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbultman/jasmine-sample.git"
+  },
+  "keywords": [
+    "jasmine",
+    "testing",
+    "TDD",
+    "BDD"
+  ],
+  "author": "Rob Bultman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rbultman/jasmine-sample/issues"
+  },
+  "homepage": "https://github.com/rbultman/jasmine-sample#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
